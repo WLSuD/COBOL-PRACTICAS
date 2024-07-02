@@ -12,7 +12,6 @@
            77 NC PIC 9(2) VALUE 0.
            77 I PIC 9(2) VALUE 0.
            77 REG PIC 9(2).
-           77 T PIC 9(2).
            77 O PIC 9(2).
            77 SUS PIC 9(2) VALUE 0.
            77 N PIC 9(2) VALUE 0.
